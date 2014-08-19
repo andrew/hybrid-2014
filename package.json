@@ -1,0 +1,15 @@
+{
+  "name": "hybrid",
+  "version": "0.0.0",
+  "description": "",
+  "main": "joystick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ev3-nodejs-bt": "0.0.4",
+    "johnny-five": "^0.8.8"
+  }
+}
