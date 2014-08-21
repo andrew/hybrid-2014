@@ -1,1 +1,3 @@
-/Applications/OpenSCAD.app/Contents/MacOS/OpenSCAD ruby.scad
+# Hybrid
+
+Code and output from my talk at HybridConf 2014
