@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cylon": "^0.18.0",
+    "cylon-sphero": "^0.14.0",
     "ev3-nodejs-bt": "0.0.4",
     "johnny-five": "^0.8.8"
   }
